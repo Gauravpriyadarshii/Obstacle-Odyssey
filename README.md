@@ -30,7 +30,7 @@ Obstacle Odyssey is a fast-paced arcade-style game where you control a sleek air
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/obstacle-odyssey.git
+    git clone https://github.com/Gauravpriyadarshii/Obstacle-Odyssey.git
     ```
 
 2. **Open the Game:**
@@ -41,9 +41,6 @@ Obstacle Odyssey is a fast-paced arcade-style game where you control a sleek air
 
 - Developed by [gaurav priyadarshi]
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contributing
 
