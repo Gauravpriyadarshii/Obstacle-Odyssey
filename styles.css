@@ -1,0 +1,67 @@
+/* htmlcanvas\styles.css */
+/* Apply Tailwind utilities directly */
+.bg-gray-200 {
+    background-color: #edf2f7;
+}
+
+.flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.h-screen {
+    height: 100vh;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.top-0 {
+    top: 0;
+}
+
+.right-0 {
+    right: 0;
+}
+
+.m-4 {
+    margin: 1rem;
+}
+
+.font-bold {
+    font-weight: 700;
+}
+
+/* Custom styles */
+#game-container {
+    width: 400px; /* Adjust as needed */
+    height: 200px; /* Adjust as needed */
+    border: 1px solid #000;
+    position: relative;
+}
+
+#player, .obstacle {
+    border-radius: 50%;
+}
+
+#player {
+    background-color: #4299e1;
+}
+
+.obstacle {
+    background-color: #f56565;
+}
+
+#score {
+    color: #fff;
+    background-color: #000;
+    padding: 0.5rem;
+}
